@@ -1,3 +1,20 @@
+
 test data1
 test data2
 test data3
+Collect(colAllRecords,
+{
+   varTitle : DataCardValue50.Text,
+   varName:DataCardValue51.Text,
+   varfathername:DataCardValue52.Text,
+   varcontnumber:DataCardValue53.Text,
+   vargander :DataCardValue54.SelectedItems,
+   varaddress :DataCardValue55.Text,
+   varemail:DataCardValue56.Text,
+   vardateofreg:DataCardValue58.SelectedDate,
+   vardepcity:DataCardValue59.Text,
+   vararvcity:DataCardValue60.Text,
+   vardepdate:DataCardValue61.SelectedDate,
+   varretdate:DataCardValue62.SelectedDate
+}
+);
